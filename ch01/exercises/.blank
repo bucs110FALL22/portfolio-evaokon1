@@ -6,7 +6,7 @@ print(15%10)
 print(10%15)
 print(10%10)
 print(0%10)
-print(10/15) # should not repeat
+print(10/15) #should not repeat
 rate = int(input("Enter the current exchange rate for Euro to USD"))
 rate = float(rate)
 amount = int(input("Enter the amount of currency to exchange"))
