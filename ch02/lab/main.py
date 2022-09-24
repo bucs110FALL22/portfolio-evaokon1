@@ -1,4 +1,3 @@
-
 #Part A
 weeks = 16
 print(weeks, type(weeks))
