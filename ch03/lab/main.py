@@ -48,10 +48,10 @@ for i in range(3):
   coords.append(x)
   coords.append(y)
   
-pygame.draw.polygon(coords)
+#pygame.draw.polygon(coords)
 pygame.display.flip()
 pygame.time.wait(1000)
-window.fill(lightblue)
+window.fill("lightblue")
 
 num_sides = 4
 side_length = 90
@@ -64,10 +64,10 @@ for i in range(4):
   coords.append(x)
   coords.append(y)
   
-pygame.draw.polygon(coords)
+#pygame.draw.polygon(coords)
 pygame.display.flip()
 pygame.time.wait(1000)
-window.fill(lightblue)
+window.fill("lightblue")
 
 num_sides = 6
 side_length = 60
@@ -80,10 +80,10 @@ for i in range(6):
   coords.append(x)
   coords.append(y)
   
-pygame.draw.polygon(coords)
+#pygame.draw.polygon(coords)
 pygame.display.flip()
 pygame.time.wait(1000)
-window.fill(lightblue)
+window.fill("lightblue")
 
 num_sides = 9
 side_length = 40
@@ -96,10 +96,10 @@ for i in range(9):
   coords.append(x)
   coords.append(y)
   
-pygame.draw.polygon(coords)
+#pygame.draw.polygon(coords)
 pygame.display.flip()
 pygame.time.wait(1000)
-window.fill(lightblue)
+window.fill("lightblue")
 
 num_sides = 360
 side_length = 1
@@ -112,9 +112,9 @@ for i in range(360):
   coords.append(x)
   coords.append(y)
   
-pygame.draw.polygon(coords)
+#pygame.draw.polygon(coords)
 pygame.display.flip()
 pygame.time.wait(1000)
-window.fill(lightblue)
+window.fill("lightblue")
 
-window.exitonclick()
+#window.exitonclick()
