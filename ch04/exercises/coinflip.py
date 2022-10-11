@@ -17,7 +17,6 @@ while inScreen:
 
   txcor = t.xcor()
   tycor = t.ycor()
-  
   xrange = window.window_width()/2
   yrange = window.window_height()/2
 
