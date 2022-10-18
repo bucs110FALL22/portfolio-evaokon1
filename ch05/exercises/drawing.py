@@ -1,6 +1,5 @@
 import turtle
 t = turtle.Turtle()
-
 window = turtle.Screen()
 turtle = turtle.Turtle()
 turtle.shape("turtle")
@@ -14,5 +13,4 @@ def draw_eq_shape(t, num_sides, side_length):
     t.forward(side_length)
     t.right(angle)
 draw_eq_shape(turtle, num_sides, side_length)
-
 window.exitonclick()
