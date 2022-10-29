@@ -1,6 +1,3 @@
-# Needs a main
-
-
 import turtle
 t = turtle.Turtle()
 
