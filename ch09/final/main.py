@@ -1,0 +1,2 @@
+pets = {"Primary breed" : "American Bulldog", "Species" : "Dog", "addr_city" : "Los Angeles", "addr_state_code" : "CA", "Age" : "Puppy", "Color" : "White", "Hair_Length": "Long", "Pet_Details_URL" : "https://www.adoptapet.com/pet/625204-richmond-indiana-beagle-mix", "Pet_ID" : "67616", "Pet_Name" : "Fluffy", "Secondary_Breed" : "Shih Tzu", "Size" : "Med. 26-60 lbs (12-27 kg)"}
+print(pets)
